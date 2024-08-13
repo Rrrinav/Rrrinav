@@ -1,7 +1,7 @@
 <h1 align="center">Heya! I am Rinav</h1>
 <h3 align="center">A programmer from India</h3>
 
-- I’m currently learning **full-stack development**
+- I’m currently learning **full-stack, C/C++ and Golang development**
 
 - Reach me on: **rinavhansa4@gmail.com**
 
