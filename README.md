@@ -3,7 +3,7 @@
 
 - I’m currently learning **full-stack, C/C++ and Golang development**
 
-- Reach me on: **rinavhansa4@gmail.com**
+- Reach me on: **rinavhansa4@gmail.com** , **rinav_2022bcse005@nitsri.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
